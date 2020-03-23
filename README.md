@@ -1,2 +1,0 @@
-# photos
-hello boys
